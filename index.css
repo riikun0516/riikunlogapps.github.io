@@ -1,0 +1,11 @@
+/* 画面幅の100%の幅で画像を表示 */
+.class1 {
+  width : 90vw ; 
+border-width: 0px;
+}
+.auto-style1 {
+	text-align: center;
+}
+body {
+  background-color: #4682b4; //これは赤色
+}
